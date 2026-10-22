@@ -1,0 +1,48 @@
+[
+    {
+        "name": "KHAN",
+        "age": 22,
+        "email": "arfatkhan4800@gmail.com",
+        "pin": 2000,
+        "accountNo": "%A73dn3",
+        "balance": 2000,
+        "transactions": []
+    },
+    {
+        "name": "hamza khan",
+        "age": 25,
+        "email": "hamza@4800",
+        "pin": "4800",
+        "accountNo": "9207850776",
+        "balance": 0.0,
+        "transactions": []
+    },
+    {
+        "name": "Arfat khan",
+        "age": 21,
+        "email": "arfatkhan@gmail.com",
+        "pin": "1122",
+        "accountNo": "3657288702",
+        "balance": 5000.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 3000.0,
+                "balance": 3000.0,
+                "date": "21-10-2026 11:52:47 PM"
+            },
+            {
+                "type": "Deposit",
+                "amount": 3000.0,
+                "balance": 6000.0,
+                "date": "21-10-2026 11:52:50 PM"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 1000.0,
+                "balance": 5000.0,
+                "date": "21-10-2026 11:53:13 PM"
+            }
+        ]
+    }
+]
